@@ -18,15 +18,19 @@ Design a file system checker for our file system.  You should call it csefsck.  
   - if indirect!=0, size should be greater than (blocksize*length of location array-1)<br>
 
 
-## Installation
+## Configuration
 
-Instructions to import java-json.jar file to Eclipse
-  
-   A.) Clone the project to your local directory.<br>
-   B.) Open terminal and go to the directory where you cloned the project.<br>
-   C.) Type the following command in the terminal<br>
+  Fork this project in your GitHub account, then clone your repository:
+
+  Run the following query on terminal.
+  ```
+  git clone http://github.com/vaibhavagg12393/File-System-Checker---Python.git
+  ```
+   Run the following query in the terminal
+   ```
    $ python ./csefsck.py
+```
 
 ## Additional
-Same project have been code using Java. Link is given below:<br>
-https://github.com/vaibhavagg12393/File-System-Checker---Java.git
+Same project have been code using Java. Click ['here'] (https://github.com/vaibhavagg12393/File-System-Checker---Java.git) to open Java code.
+
