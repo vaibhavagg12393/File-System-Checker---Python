@@ -1,14 +1,3 @@
-'''
-
-File System Checker
-
-Coded By: 
-Name: Swena Gupta
-Net ID: sg4423
-N#: N13186820
-It is assumed that the all the fusedata files are kept in ./FS
-
-'''
 import sys           
 import json
 import time
